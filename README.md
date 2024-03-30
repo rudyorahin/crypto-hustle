@@ -14,7 +14,7 @@ A simple web application designed to track and display cryptocurrency informatio
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Make sure to get your own API key and replace it in the .env file/
+Make sure to get your own API key and replace it in the .env file!
 
 ### Prerequisites
 
